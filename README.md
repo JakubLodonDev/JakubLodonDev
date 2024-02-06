@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋 My name is Jakub</h1>
 <h3 align="left">I am a student at the Wyższa Szkoła Informatyki Stosowanej i Zarządzania in Warsaw</h3>
 
-- 🔭 I’m currently working on [Flashcard](https://github.com/JakubLodonDev/Flashcard)
+- 🔭 I’m currently working on [HRM](https://github.com/JakubLodonDev/HRM)
 
 - 🌱 I’m currently learning **Spring Boot**
 
