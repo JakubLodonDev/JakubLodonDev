@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Spring Boot**
 
-- 👨‍💻 All of my projects are available at [https://github.com/JakubLodonDev](https://github.com/JakubLodonDev)
+- 👨‍💻 All of my projects are available at [https://github.com/JakubLodonDev](https://github.com/JakubLodonDev?tab=repositories)
 
 - 📫 How to reach me **lodon.jakub@gmail.com**
 
